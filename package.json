@@ -1,13 +1,14 @@
 {
   "name": "backbone.routefilter",
   "description": "Before and after filters for Backbone.Router.",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "homepage": "https://github.com/prma85/backbone.routefilter",
   "author": {
     "name": "Boaz Sender",
     "email": "boaz@bocoup.com",
     "url": "http://boazsender.com"
   },
+  "contributors":["Paulo Andrade, paulo85br@gmail.com"],
   "repository": {
     "type": "git",
     "url": "git://github.com/prma85/backbone.routefilter.git"
